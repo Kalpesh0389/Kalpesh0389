@@ -101,7 +101,7 @@ goal       : Write clean, scalable, industry-level code
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kalpesh0389&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Kalpesh0389&theme=cobalt&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 
 </div>
 
