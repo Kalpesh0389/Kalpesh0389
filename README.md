@@ -97,14 +97,6 @@ goal       : Write clean, scalable, industry-level code
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kalpesh0389&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
-
-</div>
-
 ---
 
 ## 🌟 What I'm Working On
@@ -113,7 +105,7 @@ goal       : Write clean, scalable, industry-level code
 |-----------|---------|---------|
 | Virtual Banking System | Java · MySQL · JavaFX | ✅ Completed |
 | Electricity Billing System | Java · MySQL | ✅ Completed |
-| Trip Planner App | Full-Stack · Node.js | 🚧 In Progress |
+| Trip Planner App | Full-Stack · Node.js | ✅ Completed |
 | ML Predictive Models | Python · scikit-learn | ✅ Completed |
 
 ---
