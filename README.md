@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+Production-Grade+Applications;🧠+Machine+Learning+%2B+Deep+Learning+Engineer;⚡+MERN+Stack+%7C+Python+%7C+AI+Integrations;🎯+Clean+Code+%2B+Scalable+Architecture;📊+Data+Science+%7C+CSE+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+Production-Grade+Applications;🧠+Machine+Learning+%2B+Deep+Learning+Engineer;⚡+MERN+Stack+%7C+Python+%7C+AI+Integrations;🎯+Clean+Code+%2B+Scalable+Architecture;📊+Data+Science+%7C+CSE+Student" alt="Typing SVG" />
 
 <br/><br/>
 
