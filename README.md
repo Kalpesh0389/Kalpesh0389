@@ -115,12 +115,12 @@ const kalpesh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Kalpesh0389&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Kalpesh0389&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kalpesh0389&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh0389&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kalpesh0389&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh0389&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
