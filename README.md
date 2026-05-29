@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm **Kalpesh Remje**
 
-### 🎓 CS & Engineering Student · 📊 Data Science · 🛠️ Full-Stack Developer
+### 🎓 CS & Engineering Student · 📊 Machine Learning Engineer · 🛠️ Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Real-World+Applications;Backend+%7C+Data+Science+%7C+Full-Stack;Clean+Code+%2B+Scalable+Systems;Always+Learning%2C+Always+Building+" alt="Typing SVG" />
 
